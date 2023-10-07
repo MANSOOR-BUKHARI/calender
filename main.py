@@ -16,7 +16,7 @@ tk.geometry('350x470')
 frame = Frame(tk)
 frame.pack()
 
-label = Label(frame, text="Calculator", font=('Arial', 30, 'bold'))
+label = Label(frame, text="Calendar", font=('Arial', 30, 'bold'))
 label.pack()
 
 # Create frame for getting input month and year
