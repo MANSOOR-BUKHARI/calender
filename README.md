@@ -12,12 +12,12 @@ A desktop application for viewing monthly calendars, created using Python's Tkin
 
 1. Run these commands:
    ```bash
-   git clone https://github.com/yourusername/calendar-app.git
+   git clone https://github.com/cyberfantics/calender.git
    cd calendar-app
-   python calendar_app.py
+   python calender.py
    ```
 ## Usage
-- Open the application by running python calendar_app.py.
+- Open the application by running python calendar.py.
 - Enter the desired year and month in the input fields.
 - Click the "Submit" button to generate and display the calendar for the specified month and year.
 - The calendar will be displayed with days of the week and dates, and can be refreshed by re-entering the values and clicking "Submit" again.
